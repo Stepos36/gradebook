@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\snelasov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\snelasov\\.nuget\\packages"
+    ]
+  }
+}
